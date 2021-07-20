@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "C:\Program Files (x86)\Dell\Dell Display Manager\unins000.exe" -ArgumentList "/Verysilent"
