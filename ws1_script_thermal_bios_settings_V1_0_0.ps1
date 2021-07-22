@@ -4,7 +4,7 @@
 # Status: Test
 
 # If you have BIOS PW on this device put in here the pw for authorization
-$adminpw = "Dell2021008!"
+$adminpw = "Password1234!"
 
 #Start logging
 Start-Transcript -Path "C:\temp\thermalsetting.txt" -Append
